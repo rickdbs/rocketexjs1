@@ -10,7 +10,7 @@ Nesse desafio, você irá solicitar ao usuário que ele insira **dois números**
 Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
 
 - [x]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
-- [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
+- [x]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
 
 Lembre-se de sempre mostrar na tela o resultado de cada uma dessas operações!
 */
@@ -41,7 +41,3 @@ if(n1 == n2){
 } else{
     alert(`Os números inseridos são diferentes!`)
 }
-
-
-
-alert()
